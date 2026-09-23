@@ -7,7 +7,7 @@ languagelist = " and ".join(language)
 
 #print variables
 print("Your name is", name)
-print("You're name's length is" , len(name))
+print("Your name's length is" , len(name))
 print("You are" , age, "years old")
 print("You live in ", city)
 print("You speak", languagelist)
