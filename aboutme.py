@@ -2,7 +2,7 @@ name = "Angelina"
 age = 31
 city = "Copenhagen"
 language = ["Greek", "English"]
-is_student = "Intro to Programming"
+is_student = True
 
 #print variables
 print(name)
